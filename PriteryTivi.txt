@@ -1,5 +1,5 @@
 #EXTINF:-1 group-title="VMK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Vmkkhangtelevision.jpg", VMK Khang Television
-https://doitac.nekocdn.xyz/VMK/index.m3u8
+http://103.179.189.113/hls/VMK/index.m3u8
 #EXTINF:-1 group-title="VMK" tvg-logo="https://archive.org/download/kmc_20240610_234252/kmc_20240610_234252.png", VMK+ Music
 http://103.179.189.113/hls/VMKmusic/index.m3u8
 
