@@ -5,19 +5,14 @@ http://103.179.189.113/hls/VMKmusic/index.m3u8
 #EXTINF:-1 group-title="VMK" tvg-logo="https://archive.org/download/kmc_20240625_201943/kmc_20240625_201943.png", VMK+ Sports
 http://103.179.189.113/hls/VMKsports/index.m3u8
 
-#EXTINF:-1 tvg-id="vtv1hd" group-title="Nhóm Kênh VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1
-#EXTVLCOPT:http-user-agent=PriteryTivi
+#EXTINF:-1 group-title="Nhóm Kênh Thiết Yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1
 https://hqth.me/PriteryTivi_ONNA-VTV1
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Nhóm Kênh VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 group-title="Nhóm Kênh Thiết Yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2
 https://hqth.me/PriteryTivi_ONNA-VTV2
-#EXTINF:-1 tvg-id="vtv3hd" group-title="Nhóm Kênh VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 group-title="Nhóm Kênh Thiết Yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3
 https://hqth.me/PriteryTivi_ONNA-VTV3
-#EXTINF:-1 tvg-id="vtv5hd" group-title="Nhóm Kênh VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="Nhóm Kênh Thiết Yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5
 https://hqth.me/PriteryTivi_ONNA-VTV5
 
-#EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/63.png", SCTV Hài Phụ Nữ Đắk Lắk HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/hls/sctv1/index.m3u8
+#EXTINF:-1 group-title="Nhóm Kênh SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/63.png", SCTV Hài Phụ Nữ Đắk Lắk
+https://hqth.me/PriteryTivi_ONNA-SCTVHAIDAKLAK
