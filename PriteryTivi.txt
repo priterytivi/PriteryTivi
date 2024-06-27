@@ -1,8 +1,11 @@
-#EXTINF:-1 group-title="VMK" tvg-logo="https://archive.org/download/untitled_20240625_1337/__ia_thumb.jpg", VMK Khang Television
+#EXTINF:-1 group-title="in4" tvg-logo="", in4
+https://hqth.me/PriteryTivi_ONNA-IN4
+
+#EXTINF:-1 group-title="Nhóm Kênh VMK" tvg-logo="https://archive.org/download/untitled_20240625_1337/__ia_thumb.jpg", VMK Khang Television
 http://103.179.189.113/hls/VMK/index.m3u8
-#EXTINF:-1 group-title="VMK" tvg-logo="https://archive.org/download/kmc_20240610_234252/kmc_20240610_234252.png", VMK+ Music
+#EXTINF:-1 group-title="Nhóm Kênh VMK" tvg-logo="https://archive.org/download/kmc_20240610_234252/kmc_20240610_234252.png", VMK+ Music
 http://103.179.189.113/hls/VMKmusic/index.m3u8
-#EXTINF:-1 group-title="VMK" tvg-logo="https://archive.org/download/kmc_20240625_201943/kmc_20240625_201943.png", VMK+ Sports
+#EXTINF:-1 group-title="Nhóm Kênh VMK" tvg-logo="https://archive.org/download/kmc_20240625_201943/kmc_20240625_201943.png", VMK+ Sports
 http://103.179.189.113/hls/VMKsports/index.m3u8
 
 #EXTINF:-1 group-title="Nhóm Kênh Thiết Yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1
