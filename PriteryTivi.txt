@@ -1,21 +1,24 @@
 #EXTINF:-1 group-title="in4" tvg-logo="", in4
 https://hqth.me/PriteryTivi_ONNA-IN4
 
-#EXTINF:-1 group-title="Nhóm Kênh VMK" tvg-logo="https://archive.org/download/untitled_20240625_1337/__ia_thumb.jpg", VMK Khang Television
+#EXTINF:-1 group-title="Phim" tvg-logo="https://imgur.com/a/yR4Mo0L.png", The Amazing Digital Cirus - Tập 1
+https://videy.io/v/drbixmad1653.mp4
+
+#EXTINF:-1 group-title="VMK" tvg-logo="https://archive.org/download/untitled_20240625_1337/__ia_thumb.jpg", VMK Khang Television
 http://103.179.189.113/hls/VMK/index.m3u8
-#EXTINF:-1 group-title="Nhóm Kênh VMK" tvg-logo="https://archive.org/download/kmc_20240610_234252/kmc_20240610_234252.png", VMK+ Music
+#EXTINF:-1 group-title="VMK" tvg-logo="https://archive.org/download/kmc_20240610_234252/kmc_20240610_234252.png", VMK+ Music
 http://103.179.189.113/hls/VMKmusic/index.m3u8
-#EXTINF:-1 group-title="Nhóm Kênh VMK" tvg-logo="https://archive.org/download/kmc_20240625_201943/kmc_20240625_201943.png", VMK+ Sports
+#EXTINF:-1 group-title="VMK" tvg-logo="https://archive.org/download/kmc_20240625_201943/kmc_20240625_201943.png", VMK+ Sports
 http://103.179.189.113/hls/VMKsports/index.m3u8
 
-#EXTINF:-1 group-title="Nhóm Kênh Thiết Yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1
+#EXTINF:-1 group-title="Thiết Yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1
 https://hqth.me/PriteryTivi_ONNA-VTV1
-#EXTINF:-1 group-title="Nhóm Kênh Thiết Yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2
+#EXTINF:-1 group-title="Thiết Yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2
 https://hqth.me/PriteryTivi_ONNA-VTV2
-#EXTINF:-1 group-title="Nhóm Kênh Thiết Yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3
+#EXTINF:-1 group-title="Thiết Yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3
 https://hqth.me/PriteryTivi_ONNA-VTV3
-#EXTINF:-1 group-title="Nhóm Kênh Thiết Yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5
+#EXTINF:-1 group-title="Thiết Yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5
 https://hqth.me/PriteryTivi_ONNA-VTV5
 
-#EXTINF:-1 group-title="Nhóm Kênh SCTV" tvg-logo="https://archive.org/download/com.bongasoft.addremovewatermark_Screenshot_20240625_202839_Facebook/__ia_thumb.jpg", SCTV Hài Phụ Nữ Đắk Lắk
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://archive.org/download/com.bongasoft.addremovewatermark_Screenshot_20240625_202839_Facebook/__ia_thumb.jpg", SCTV Hài Phụ Nữ Đắk Lắk
 https://hqth.me/PriteryTivi_ONNA-SCTVHAIDAKLAK
