@@ -1,7 +1,7 @@
 #EXTINF:-1 group-title="in4" tvg-logo="", in4
 https://hqth.me/PriteryTivi_ONNA-IN4
 
-#EXTINF:-1 group-title="Phim" tvg-logo="https://imgur.com/a/yR4Mo0L.jpg", The Amazing Digital Cirus - Tập 1
+#EXTINF:-1 group-title="Phim" tvg-logo="https://archive.org/download/maxresdefault-1_202406/maxresdefault%20%281%29.jpg", The Amazing Digital Cirus - Tập 1
 https://videy.io/v/drbixmad1653.mp4
 
 #EXTINF:-1 group-title="VMK" tvg-logo="https://archive.org/download/untitled_20240625_1337/__ia_thumb.jpg", VMK Khang Television
