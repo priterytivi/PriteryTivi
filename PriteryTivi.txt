@@ -21,7 +21,7 @@ https://hqth.me/PriteryTivi_ONNA-VTV3
 https://hqth.me/PriteryTivi_ONNA-VTV5
 
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://archive.org/download/kmc_20240331_131958/kmc_20240331_131958.png", KCTV Triều Tiên (4:3)
-https://hqth.me/PriteryTivi_ONNA-KCTV-43
+https://tv.nknews.org/tvdash/stream.mpd
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://archive.org/download/kmc_20240331_131958/kmc_20240331_131958.png", KCTV Triều Tiên (16:9)
 https://hqth.me/PriteryTivi_ONNA-KCTV-169
 
