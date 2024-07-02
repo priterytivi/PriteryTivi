@@ -26,8 +26,6 @@ https://hqth.me/PriteryTivi_ONNA-CANALSPORT2
 https://hqth.me/PriteryTivi_ONNA-CANALSPORT4
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://archive.org/download/kmc_20240702_171344/kmc_20240702_171344.png", CANAL+ Foot
 https://hqth.me/PriteryTivi_ONNA-CANALFOOT
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://archive.org/download/kmc_20240331_131958/kmc_20240331_131958.png", KCTV Triều Tiên
-https://tv.nknews.org/tvdash/stream.mpd
 
 #EXTINF:-1 group-title="SCTV" tvg-logo="https://archive.org/download/com.bongasoft.addremovewatermark_Screenshot_20240625_202839_Facebook/__ia_thumb.jpg", SCTV Hài Phụ Nữ Đắk Lắk
 https://hqth.me/PriteryTivi_ONNA-SCTVHAIDAKLAK
