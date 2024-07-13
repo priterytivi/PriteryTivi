@@ -5,9 +5,9 @@ https://hqth.me/PriteryTivi_ONNA-IN4
 https://videy.io/v/drbixmad1653.mp4
 
 #EXTINF:-1 group-title="Pritery Onna Network" tvg-logo="https://i.ibb.co/p1fFwvZ/kmc-20240713-181820.png", ONNA Anime
-
+https://cdn.nsoking.xyz/live/ONNA_ANIME/index.m3u8
 #EXTINF:-1 group-title="Pritery Onna Network" tvg-logo="https://i.ibb.co/yBj9dKG/kmc-20240713-181813.png", ONNA Music
-
+https://doitac.nekocdn.xyz/NNT1709Ch/index.m3u8
 #EXTINF:-1 group-title="Pritery Onna Network" tvg-logo="https://i.ibb.co/58WN07f/kmc-20240713-181804.png", ONNA Radio
 
 
