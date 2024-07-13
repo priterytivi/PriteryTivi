@@ -1,9 +1,6 @@
 #EXTINF:-1 group-title="in4" tvg-logo="", in4
 https://hqth.me/PriteryTivi_ONNA-IN4
 
-#EXTINF:-1 group-title="Phim" tvg-logo="https://archive.org/download/maxresdefault-1_202406/maxresdefault%20%281%29.jpg", The Amazing Digital Cirus - Tập 1
-https://videy.io/v/drbixmad1653.mp4
-
 #EXTINF:-1 group-title="Pritery Onna Network" tvg-logo="https://i.ibb.co/p1fFwvZ/kmc-20240713-181820.png", ONNA Anime
 https://cdn.nsoking.xyz/live/ONNA_ANIME/index.m3u8
 #EXTINF:-1 group-title="Pritery Onna Network" tvg-logo="https://i.ibb.co/yBj9dKG/kmc-20240713-181813.png", ONNA Music
@@ -12,13 +9,13 @@ https://doitac.nekocdn.xyz/NNT1709Ch/index.m3u8
 
 
 #EXTINF:-1 group-title="Thiết Yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1
-https://hqth.me/PriteryTivi_ONNA-VTV1
+https://billing.tfms.xyz/http://118.107.85.4:1935/live/smil:VTV1.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Thiết Yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2
-https://hqth.me/PriteryTivi_ONNA-VTV2
+https://billing.tfms.xyz/http://118.107.85.4:1935/live/smil:VTV2.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Thiết Yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3
-https://hqth.me/PriteryTivi_ONNA-VTV3
+https://billing.tfms.xyz/http://118.107.85.4:1935/live/smil:VTV3.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Thiết Yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5
-https://hqth.me/PriteryTivi_ONNA-VTV5
+https://liveh12.vtvcab.vn/hls/ONVTV5_CL/index.m3u8
 
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://archive.org/download/kmc_20240702_171344/kmc_20240702_171259.png", CANAL+ Sport 2
 https://hqth.me/PriteryTivi_ONNA-CANALSPORT2
