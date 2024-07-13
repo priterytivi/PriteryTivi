@@ -4,12 +4,12 @@ https://hqth.me/PriteryTivi_ONNA-IN4
 #EXTINF:-1 group-title="Phim" tvg-logo="https://archive.org/download/maxresdefault-1_202406/maxresdefault%20%281%29.jpg", The Amazing Digital Cirus - Tập 1
 https://videy.io/v/drbixmad1653.mp4
 
-#EXTINF:-1 group-title="VMK" tvg-logo="https://archive.org/download/untitled_20240625_1337/__ia_thumb.jpg", VMK Khang Television
-http://103.179.189.113/hls/VMK/index.m3u8
-#EXTINF:-1 group-title="VMK" tvg-logo="https://archive.org/download/kmc_20240610_234252/kmc_20240610_234252.png", VMK+ Music
-http://103.179.189.113/hls/VMKmusic/index.m3u8
-#EXTINF:-1 group-title="VMK" tvg-logo="https://archive.org/download/kmc_20240625_201943/kmc_20240625_201943.png", VMK+ Sports
-http://103.179.189.113/hls/VMKsports/index.m3u8
+#EXTINF:-1 group-title="Pritery Onna Network" tvg-logo="https://i.ibb.co/p1fFwvZ/kmc-20240713-181820.png", ONNA Anime
+
+#EXTINF:-1 group-title="Pritery Onna Network" tvg-logo="https://i.ibb.co/yBj9dKG/kmc-20240713-181813.png", ONNA Music
+
+#EXTINF:-1 group-title="Pritery Onna Network" tvg-logo="https://i.ibb.co/58WN07f/kmc-20240713-181804.png", ONNA Radio
+
 
 #EXTINF:-1 group-title="Thiết Yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1
 https://hqth.me/PriteryTivi_ONNA-VTV1
@@ -25,7 +25,7 @@ https://hqth.me/PriteryTivi_ONNA-CANALSPORT2
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://archive.org/download/kmc_20240702_171344/kmc_20240702_171329.png", CANAL+ Sport 4
 https://hqth.me/PriteryTivi_ONNA-CANALSPORT4
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://archive.org/download/kmc_20240702_171344/kmc_20240702_171344.png", CANAL+ Foot
-https://hqth.me/PriteryTivi_ONNA-CANALFOOT
+
 
 #EXTINF:-1 group-title="SCTV" tvg-logo="https://archive.org/download/com.bongasoft.addremovewatermark_Screenshot_20240625_202839_Facebook/__ia_thumb.jpg", SCTV Hài Phụ Nữ Đắk Lắk
 https://hqth.me/PriteryTivi_ONNA-SCTVHAIDAKLAK
