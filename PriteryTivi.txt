@@ -49,6 +49,10 @@ https://billing.tfms.xyz/http://118.107.85.4:1935/live/smil:VTV2.smil/chunklist.
 https://billing.tfms.xyz/http://118.107.85.4:1935/live/smil:VTV3.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Thiết Yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5
 https://liveh12.vtvcab.vn/hls/ONVTV5_CL/index.m3u8
+#EXTINF:-1 group-title="Thiết Yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/32.png", VTC1
+https://liveh12.vtvcab.vn/hls/ONVTC1_CL/index.m3u8
+#EXTINF:-1 group-title="Thiết Yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/34.png", VTC3
+https://billing.tfms.xyz/http://s4live.tv1asia.com:21585/vtc3/index.m3u8
 
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://archive.org/download/kmc_20240702_171344/kmc_20240702_171259.png", CANAL+ Sport 2
 https://hqth.me/PriteryTivi_ONNA-CANALSPORT2
