@@ -28,6 +28,18 @@ https://liveh34.vtvcab.vn/hls/ONSPORT08/index.m3u8
 https://liveh34.vtvcab.vn/hls/ONSPORT09/index.m3u8
 #EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://stvinaprod.vtvcab.vn/6ba1de50-b726-4675-a372-3df496440086.png", ONPLUS LIVE 10
 https://liveh34.vtvcab.vn/hls/ONSPORT010/index.m3u8
+#EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://i.ibb.co/DgLPQ16/TV360-truyen-hinh-truc-tuyen.jpg", TV360+1
+#EXTVLCOPT:http-user-agent=PriteryTivi
+https://live-bd2.tv360.vn/oKVyaCvYCN4kWCD3CmXD2w/1721139696/manifest/sukien/playlist_1080p-5M.m3u8?uid=14.185.103.208&manifestfilter=video_bitrate:1-5767168
+#EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://i.ibb.co/DgLPQ16/TV360-truyen-hinh-truc-tuyen.jpg", TV360+2
+#EXTVLCOPT:http-user-agent=PriteryTivi
+https://live-bd2.tv360.vn/FvtXs342GL55ci2NrMLDRQ/1721139774/manifest/u23-dubaicup2/playlist_1080p-5M.m3u8?manifestfilter=video_bitrate:1-5767168&uid=14.185.103.208
+#EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://i.ibb.co/DgLPQ16/TV360-truyen-hinh-truc-tuyen.jpg", TV360+3
+#EXTVLCOPT:http-user-agent=PriteryTivi
+https://live-bd2.tv360.vn/cNXIeioXH6OInSZhVxbrBQ/1721139843/manifest/Su_Kien_3/playlist_1080p.m3u8?uid=14.185.103.208&manifestfilter=video_bitrate:1-5767168
+#EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://i.ibb.co/DgLPQ16/TV360-truyen-hinh-truc-tuyen.jpg", TV360+4
+#EXTVLCOPT:http-user-agent=PriteryTivi
+https://live-bd2.tv360.vn/-5ZL7dAsWV0k4qr-8Rg4UA/1721139942/manifest/Su_Kien_4/playlist_1080p.m3u8?manifestfilter=video_bitrate:1-5767168&uid=14.185.103.208
 
 #EXTINF:-1 group-title="Thiết Yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1
 https://ott1.nethubtv.vn/live/vtv1/playlist.m3u8
