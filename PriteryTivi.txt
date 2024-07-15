@@ -1,5 +1,5 @@
-#EXTINF:-1 group-title="in4" tvg-logo="", in4
-https://hqth.me/PriteryTivi_ONNA-IN4
+Chào Mừng Bạn Đến Với List IPTV Của PriteryTivi!
+https://priterytivi.blogspot.com
 
 #EXTINF:-1 group-title="Pritery Onna Network" tvg-logo="https://i.ibb.co/p1fFwvZ/kmc-20240713-181820.png", ONNA Anime
 https://cdn.nsoking.xyz/live/ONNA_ANIME/index.m3u8
@@ -8,8 +8,29 @@ https://doitac.nekocdn.xyz/NNT1709Ch/index.m3u8
 #EXTINF:-1 group-title="Pritery Onna Network" tvg-logo="https://i.ibb.co/58WN07f/kmc-20240713-181804.png", ONNA Radio
 
 
+#EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://stvinaprod.vtvcab.vn/6ba1de50-b726-4675-a372-3df496440086.png", ONPLUS LIVE 1
+https://liveh34.vtvcab.vn/hls/ONSPORT01/index.m3u8
+#EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://stvinaprod.vtvcab.vn/6ba1de50-b726-4675-a372-3df496440086.png", ONPLUS LIVE 2
+https://liveh34.vtvcab.vn/hls/ONSPORT02/index.m3u8
+#EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://stvinaprod.vtvcab.vn/6ba1de50-b726-4675-a372-3df496440086.png", ONPLUS LIVE 3
+https://liveh34.vtvcab.vn/hls/ONSPORT03/index.m3u8
+#EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://stvinaprod.vtvcab.vn/6ba1de50-b726-4675-a372-3df496440086.png", ONPLUS LIVE 4
+https://liveh34.vtvcab.vn/hls/ONSPORT04/index.m3u8
+#EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://stvinaprod.vtvcab.vn/6ba1de50-b726-4675-a372-3df496440086.png", ONPLUS LIVE 5
+https://liveh34.vtvcab.vn/hls/ONSPORT05/index.m3u8
+#EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://stvinaprod.vtvcab.vn/6ba1de50-b726-4675-a372-3df496440086.png", ONPLUS LIVE 6
+https://liveh34.vtvcab.vn/hls/ONSPORT06/index.m3u8
+#EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://stvinaprod.vtvcab.vn/6ba1de50-b726-4675-a372-3df496440086.png", ONPLUS LIVE 7
+https://liveh34.vtvcab.vn/hls/ONSPORT07/index.m3u8
+#EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://stvinaprod.vtvcab.vn/6ba1de50-b726-4675-a372-3df496440086.png", ONPLUS LIVE 8
+https://liveh34.vtvcab.vn/hls/ONSPORT08/index.m3u8
+#EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://stvinaprod.vtvcab.vn/6ba1de50-b726-4675-a372-3df496440086.png", ONPLUS LIVE 9
+https://liveh34.vtvcab.vn/hls/ONSPORT09/index.m3u8
+#EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://stvinaprod.vtvcab.vn/6ba1de50-b726-4675-a372-3df496440086.png", ONPLUS LIVE 10
+https://liveh34.vtvcab.vn/hls/ONSPORT010/index.m3u8
+
 #EXTINF:-1 group-title="Thiết Yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1
-https://billing.tfms.xyz/http://118.107.85.4:1935/live/smil:VTV1.smil/chunklist.m3u8
+https://ott1.nethubtv.vn/live/vtv1/playlist.m3u8
 #EXTINF:-1 group-title="Thiết Yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2
 https://billing.tfms.xyz/http://118.107.85.4:1935/live/smil:VTV2.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Thiết Yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3
@@ -21,8 +42,6 @@ https://liveh12.vtvcab.vn/hls/ONVTV5_CL/index.m3u8
 https://hqth.me/PriteryTivi_ONNA-CANALSPORT2
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://archive.org/download/kmc_20240702_171344/kmc_20240702_171329.png", CANAL+ Sport 4
 https://hqth.me/PriteryTivi_ONNA-CANALSPORT4
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://archive.org/download/kmc_20240702_171344/kmc_20240702_171344.png", CANAL+ Foot
-
 
 #EXTINF:-1 group-title="SCTV" tvg-logo="https://archive.org/download/com.bongasoft.addremovewatermark_Screenshot_20240625_202839_Facebook/__ia_thumb.jpg", SCTV Hài Phụ Nữ Đắk Lắk
 https://hqth.me/PriteryTivi_ONNA-SCTVHAIDAKLAK
