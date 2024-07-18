@@ -62,6 +62,8 @@ https://liveh12.vtvcab.vn/hls/ONVTC1_CL/index.m3u8
 https://cloudstreamqh.tek4tv.vn/live/quochoitv_720p.m3u8
 #EXTINF:-1 group-title="Thiết Yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/91.png", Vnews
 https://liveh34.vtvcab.vn/hls/TTXVN_VNEWS/index.m3u8
+#EXTINF:-1 group-title="Thiết Yếu" tvg-logo="http://img-z102.khanggtivi.xyz/logo/119.png", BTV5
+https://liveh12.vtvcab.vn/hls/ONBTV5/04.m3u8
 
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://archive.org/download/kmc_20240702_171344/kmc_20240702_171259.png", CANAL+ Sport 2
 https://hqth.me/PriteryTivi_ONNA-CANALSPORT2
