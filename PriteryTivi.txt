@@ -3,7 +3,7 @@ https://priterytivi.blogspot.com
 
 #EXTINF:-1 group-title="Phim Anime" tvg-logo="", 
 
-#EXTINF:-1 group-title="Phim Hoạt Hình" tvg-logo="https://i.ibb.co/FVhQK5g/N-bita-v-truy-n-thuy-t-ng-i-c-kh-ng-l-2010.jpg", Doraemon: Nobita và Cuộc Đại Thủy Chiến Ở Xứ Sở Người Cá
+#EXTINF:-1 group-title="Phim Hoạt Hình" tvg-logo="https://i.ibb.co/FVhQK5g/N-bita-v-truy-n-thuy-t-ng-i-c-kh-ng-l-2010.jpg", Doraemon: Nobita và Cuộc Đại Thủy Chiến Ở Xứ Sở Người Cá (Vietsub)
 https://s1.phim1280.tv/20231118/9KinDdNG/index.m3u8
 
 #EXTINF:-1 group-title="Pritery Onna Network" tvg-logo="https://i.ibb.co/p1fFwvZ/kmc-20240713-181820.png", ONNA Anime
