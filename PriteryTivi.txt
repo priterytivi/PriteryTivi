@@ -58,6 +58,8 @@ https://liveh12.vtvcab.vn/hls/ONVTV5_CL/index.m3u8
 https://liveh12.vtvcab.vn/hls/ONVTC1_CL/index.m3u8
 #EXTINF:-1 group-title="Thiết Yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/34.png", VTC3
 https://billing.tfms.xyz/http://s4live.tv1asia.com:21585/vtc3/index.m3u8
+#EXTINF:-1 group-title="Thiết Yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/93.png", Quốc Hội TV
+https://cloudstreamqh.tek4tv.vn/live/quochoitv_720p.m3u8
 
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://archive.org/download/kmc_20240702_171344/kmc_20240702_171259.png", CANAL+ Sport 2
 https://hqth.me/PriteryTivi_ONNA-CANALSPORT2
