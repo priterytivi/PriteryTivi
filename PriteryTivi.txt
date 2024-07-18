@@ -11,7 +11,7 @@ https://cdn.nsoking.xyz/live/ONNA_ANIME/index.m3u8
 #EXTINF:-1 group-title="Pritery Onna Network" tvg-logo="https://i.ibb.co/yBj9dKG/kmc-20240713-181813.png", ONNA Music
 https://doitac.nekocdn.xyz/NNT1709Ch/index.m3u8
 #EXTINF:-1 group-title="Pritery Onna Network" tvg-logo="https://i.ibb.co/58WN07f/kmc-20240713-181804.png", ONNA Radio
-https://video-weaver.hkg06.hls.ttvnw.net/v1/playlist/CpsFdVcuuxpUAdXjwwMAU4gf_V7OpL5XDeUlrnd_ltCcNGIb0J6fxHV2OcHFs3TF6XwARu1geAnJjUAFj7cPouK-4ppQMAPIK0yeuiYcS9t7C6rJXOjbUlySOGISpn018lyIwTmPaTxKkm9z55Md6VLbXiGdBwdyhqy_BPhtjnphCO3qCfvMN72XCQYz2wWkA_SJh3JYlQUvWbeEYur2KGuEtk7CU9zdOPnlZmxrCST-HYCHg-SU6fMDYIL5gTbXoskYLhsWGhW-fOXBceLue9w-L4Vg1Qw9MpJ_eAjp0C5YMUFHj9-PPofThrsZ9KxUzXW9QBvvF1NsG-6WF1q2kedXMhcEYoDLLF1BtA88_jo_YZRuqWBOpMibDgVnSz5a2AX5gsGGC_pG9Xp9MEv9cA8u8SH17Iw4TBQCMFXQPP4eMFJuzU6MDXspzO3gYnGED7WiBhXwfYKWhKIW97FFt-UErKl_6LOWVEhaOmCj5VnL6R87idLJqsMTseqoF3qk2_2PdFYZn2Z2Xrp3YlotP0X6QD5PBTD0cz1nTihuXN1-EVstAY9dmHrggwoYwrzSCvhmTjdOHNZEKJoXpwlIcwwF3_x7Hp_gug5WflY1CAmxX3PbmH9tmz2aa32NRG8Zg_WqZrUw1WBD6UsztHyZshqD3-ZTiMDXvfzA9vsdwpBRnvykmeGWQPNS41Ad-x4J_SHO-Myky_oHZs78HNiN1RClkQiZOHEu1zcuFWblv5Xe65YtxN6pExtsY8XnxJNsDPR3czPoSjg5Lw8goKxPJ7LOL-7TsT2AMusttpvSc6_64Lj6RFFhQm8htVDk0FkDxGPGg8pmtSTi2c_CGnfUnkQ3jSTKDE2rI3PLw1gVkvQRy2xqpKH6nkUECw1kGxoMQUYvDaOzcR0LEr9oIAEqCXVzLXdlc3QtMjD0CQ.m3u8
+
 
 #EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://stvinaprod.vtvcab.vn/6ba1de50-b726-4675-a372-3df496440086.png", ONPLUS LIVE 1
 https://liveh34.vtvcab.vn/hls/ONSPORT01/index.m3u8
@@ -54,6 +54,8 @@ https://billing.tfms.xyz/http://118.107.85.4:1935/live/smil:VTV2.smil/chunklist.
 https://billing.tfms.xyz/http://118.107.85.4:1935/live/smil:VTV3.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Thiết Yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5
 https://liveh12.vtvcab.vn/hls/ONVTV5_CL/index.m3u8
+#EXTINF:-1 group-title="Thiết Yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV Cần Thơ
+https://cdn1.tvmienphi.xyz:8444/sctv/s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/hls/vtv6/index.m3u8
 #EXTINF:-1 group-title="Thiết Yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/32.png", VTC1
 https://liveh12.vtvcab.vn/hls/ONVTC1_CL/index.m3u8
 #EXTINF:-1 group-title="Thiết Yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/34.png", VTC3
