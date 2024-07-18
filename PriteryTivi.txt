@@ -58,8 +58,6 @@ https://liveh12.vtvcab.vn/hls/ONVTV5_CL/index.m3u8
 https://cdn1.tvmienphi.xyz:8444/sctv/s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/hls/vtv6/index.m3u8
 #EXTINF:-1 group-title="Thiết Yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/32.png", VTC1
 https://liveh12.vtvcab.vn/hls/ONVTC1_CL/index.m3u8
-#EXTINF:-1 group-title="Thiết Yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/34.png", VTC3
-https://billing.tfms.xyz/http://s4live.tv1asia.com:21585/vtc3/index.m3u8
 #EXTINF:-1 group-title="Thiết Yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/93.png", Quốc Hội TV
 https://cloudstreamqh.tek4tv.vn/live/quochoitv_720p.m3u8
 #EXTINF:-1 group-title="Thiết Yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/91.png", Vnews
