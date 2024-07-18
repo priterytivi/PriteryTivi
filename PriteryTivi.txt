@@ -1,6 +1,11 @@
 Chào Mừng Bạn Đến Với List IPTV Của PriteryTivi!
 https://priterytivi.blogspot.com
 
+#EXTINF:-1 group-title="Phim Anime" tvg-logo="", 
+
+#EXTINF:-1 group-title="Phim Hoạt Hình" tvg-logo="https://i.ibb.co/ySGPnzC/Screenshot-20240718-105614-Chrome.jpg", Doraemon: Nobita và Cuộc Đại Thủy Chiến Ở Xứ Sở Người Cá
+https://s1.phim1280.tv/20231118/9KinDdNG/index.m3u8
+
 #EXTINF:-1 group-title="Pritery Onna Network" tvg-logo="https://i.ibb.co/p1fFwvZ/kmc-20240713-181820.png", ONNA Anime
 https://cdn.nsoking.xyz/live/ONNA_ANIME/index.m3u8
 #EXTINF:-1 group-title="Pritery Onna Network" tvg-logo="https://i.ibb.co/yBj9dKG/kmc-20240713-181813.png", ONNA Music
