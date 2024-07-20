@@ -1,14 +1,14 @@
 Chào Mừng Bạn Đến Với List IPTV Của PriteryTivi!
 https://priterytivi.blogspot.com
 
-#EXTINF:-1 group-title="Livestream 24/7" tvg-logo="https://i.ibb.co/RS1v4yM/tom-and-jerry-t2.jpg", 🔴 Tom And Jerry 24/7
+#EXTINF:-1 group-title="Livestream 24/7" tvg-logo="https://i.ibb.co/RS1v4yM/tom-and-jerry-t2.jpg", 🔴Tom & Jerry 24/7
 https://autopilot.catcast.tv/mobile.m3u8?channel_id=43075&token=5a65e5e4e5935f3376d2e165f7ac1fcf&server=v2.catcast.tv
 
 #EXTINF:-1 group-title="ONNA Network" tvg-logo="https://i.ibb.co/p1fFwvZ/kmc-20240713-181820.png", ONNA Anime
 https://cdn.nsoking.xyz/live/ONNA_ANIME/index.m3u8
-#EXTINF:-1 group-title="Pritery Onna Network" tvg-logo="https://i.ibb.co/yBj9dKG/kmc-20240713-181813.png", ONNA Music
+#EXTINF:-1 group-title="ONNA Network" tvg-logo="https://i.ibb.co/yBj9dKG/kmc-20240713-181813.png", ONNA Music
 https://doitac.nekocdn.xyz/NNT1709Ch/index.m3u8
-#EXTINF:-1 group-title="Pritery Onna Network" tvg-logo="https://i.ibb.co/58WN07f/kmc-20240713-181804.png", ONNA Radio
+#EXTINF:-1 group-title="ONNA Network" tvg-logo="https://i.ibb.co/58WN07f/kmc-20240713-181804.png", ONNA Radio
 
 
 #EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://stvinaprod.vtvcab.vn/6ba1de50-b726-4675-a372-3df496440086.png", ONPLUS LIVE 1
