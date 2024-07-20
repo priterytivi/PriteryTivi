@@ -64,6 +64,8 @@ https://liveh34.vtvcab.vn/hls/TTXVN_VNEWS/index.m3u8
 https://liveh34.vtvcab.vn/hls/ONANTV_CL/index.m3u8
 #EXTINF:-1 group-title="Thiết Yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/92.png", Nhân Dân TV
 https://arpt.tvic.vn/live/nhandan720/playlist.m3u8
+#EXTINF:-1 group-title="Thiết Yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/94.png", QPVN
+https://liveh34.vtvcab.vn/hls/ONQUOCPHONG_CL/index.m3u8
 #EXTINF:-1 group-title="Thiết Yếu" tvg-logo="https://imgvlive.vtvcab.vn/720X405/0f3eeb2f-1482-4ea5-a42b-68c22266fd38.jpg?auto=format&fit=max&w=640", BTV5
 https://liveh12.vtvcab.vn/hls/ONBTV5/04.m3u8
 
