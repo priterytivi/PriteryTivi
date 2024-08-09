@@ -67,6 +67,8 @@ https://hqth.me/PriteryTivi_ONNA-CANALSPORT2
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://archive.org/download/kmc_20240702_171344/kmc_20240702_171329.png", CANAL+ Sport 4
 https://hqth.me/PriteryTivi_ONNA-CANALSPORT4
 
+#EXTINF:-1 group-title="K+" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d8/Kplus_Cine_logo_2024.png/revision/latest?cb=20240330042536&path-prefix=vi", K+ Cine
+http://gg.gg/1bmyry
 
 
 
