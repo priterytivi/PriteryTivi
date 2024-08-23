@@ -40,6 +40,8 @@ https://billing.tfms.xyz/http://118.107.85.4:1935/live/smil:VTV3.smil/chunklist.
 https://billing.tfms.xyz/http://118.107.85.4:1935/live/smil:VTV4.smil/chunklist.m3u8
 #EXTINF:-1 group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5
 https://billing.tfms.xyz/s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/hls/vtv5/index.m3u8
+#EXTINF:-1 group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 (PriteryTivi)
+https://sb-5.restream.su/preview/20047/3adc7d09-fb4f-4b08-b60e-69827c18c307/live.m3u8
 #EXTINF:-1 group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ
 https://billing.tfms.xyz/https://e8.endpoint.cdn.sctvonline.vn/hls/vtv6/index.m3u8
 #EXTINF:-1 group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/9.png", VTV7
@@ -51,8 +53,6 @@ https://billing.tfms.xyz/https://e2.endpoint.cdn.sctvonline.vn/hls/vtv9/index.m3
 
 #EXTINF:-1 group-title="Thiết Yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/32.png", VTC1
 https://liveh12.vtvcab.vn/hls/ONVTC1_CL/index.m3u8
-#EXTINF:-1 group-title="Thiết Yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/35.png", VTC4 (PriteryTivi)
-https://sb-5.restream.su/preview/20047/3adc7d09-fb4f-4b08-b60e-69827c18c307/live.m3u8
 #EXTINF:-1 group-title="Thiết Yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/93.png", Quốc Hội TV
 https://cloudstreamqh.tek4tv.vn/live/quochoitv_720p.m3u8
 #EXTINF:-1 group-title="Thiết Yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/91.png", Vnews
