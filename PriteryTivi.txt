@@ -23,9 +23,9 @@ https://liveh34.vtvcab.vn/hls/ONSPORT09/index.m3u8
 #EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://stvinaprod.vtvcab.vn/6ba1de50-b726-4675-a372-3df496440086.png", ONPLUS LIVE 10
 https://liveh34.vtvcab.vn/hls/ONSPORT010/index.m3u8
 
-#EXTINF:-1 group-title="ONNA Network" tvg-logo="https://i.ibb.co/p1fFwvZ/kmc-20240713-181820.png", ONNA Anime
-https://cdn.nsoking.xyz/live/ONNA_ANIME/index.m3u8
-#EXTINF:-1 group-title="ONNA Network" tvg-logo="https://i.ibb.co/yBj9dKG/kmc-20240713-181813.png", ONNA Music
+#EXTINF:-1 group-title="ONNA Network" tvg-logo="https://i.ibb.co/Nn9rTHM/kmc-20240902-130708.png", ONNA Sports
+https://kinescope.io/nQ1npY5SYmtCw5uZcPf4rD/master.m3u8
+#EXTINF:-1 group-title="ONNA Network" tvg-logo="https://i.ibb.co/GR3dJ2B/kmc-20240902-130702.png", ONNA+ Sports
 https://doitac.nekocdn.xyz/NNT1709Ch/index.m3u8
 #EXTINF:-1 group-title="ONNA Network" tvg-logo="https://i.ibb.co/58WN07f/kmc-20240713-181804.png", ONNA Radio
 
