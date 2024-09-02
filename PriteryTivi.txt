@@ -56,7 +56,7 @@ https://billing.tfms.xyz/https://e2.endpoint.cdn.sctvonline.vn/hls/vtv9/index.m3
 #EXTINF:-1 group-title="Thiết Yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/32.png", VTC1
 https://liveh12.vtvcab.vn/hls/ONVTC1_CL/index.m3u8
 #EXTINF:-1 group-title="Thiết Yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/93.png", Quốc Hội TV
-https://cloudstreamqh.tek4tv.vn/live/quochoitv_720p.m3u8
+https://liveh12.vtvcab.vn/hls/ONQUOCHOI_CL/index.m3u8
 #EXTINF:-1 group-title="Thiết Yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/91.png", Vnews
 https://liveh34.vtvcab.vn/hls/TTXVN_VNEWS/index.m3u8
 #EXTINF:-1 group-title="Thiết Yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/90.png", ANTV
@@ -65,14 +65,6 @@ https://liveh34.vtvcab.vn/hls/ONANTV_CL/index.m3u8
 https://arpt.tvic.vn/live/nhandan720/playlist.m3u8
 #EXTINF:-1 group-title="Thiết Yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/94.png", QPVN
 https://liveh34.vtvcab.vn/hls/ONQUOCPHONG_CL/index.m3u8
-
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://archive.org/download/kmc_20240702_171344/kmc_20240702_171259.png", CANAL+ Sport 2
-https://hqth.me/PriteryTivi_ONNA-CANALSPORT2
-#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://archive.org/download/kmc_20240702_171344/kmc_20240702_171329.png", CANAL+ Sport 4
-https://hqth.me/PriteryTivi_ONNA-CANALSPORT4
-
-#EXTINF:-1 group-title="K+" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d8/Kplus_Cine_logo_2024.png/revision/latest?cb=20240330042536&path-prefix=vi", K+ Cine
-http://gg.gg/1bmyte
 
 
 
