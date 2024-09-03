@@ -30,7 +30,7 @@ https://doitac.nekocdn.xyz/NNT1709Ch/index.m3u8
 #EXTINF:-1 group-title="ONNA Network" tvg-logo="https://i.ibb.co/gJBFhYh/kmc-20240902-162738.png", ONNA Anime
 https://kinescope.io/6wa8vXHLUJVgNe1GkcyVD5/master.m3u8
 #EXTINF:-1 group-title="ONNA Network" tvg-logo="https://i.ibb.co/FmsWM17/kmc-20240902-210810.png", ONNA Music
-https://kinescope.io/jMAbrqqy77QppAea89ip8N/master.m3u8
+https://kinescope.io/2r7JZb3htid1VLs65CthNa/master.m3u8
 #EXTINF:-1 group-title="ONNA Network" tvg-logo="https://i.ibb.co/58WN07f/kmc-20240713-181804.png", ONNA Radio
 
 
