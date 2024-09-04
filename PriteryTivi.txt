@@ -33,8 +33,8 @@ https://kinescope.io/6wa8vXHLUJVgNe1GkcyVD5/master.m3u8
 https://kinescope.io/2r7JZb3htid1VLs65CthNa/master.m3u8
 #EXTINF:-1 group-title="ONNA Network" tvg-logo="https://i.ibb.co/MpCfwrj/kmc-20240904-185829.png", ONNA Movies
 https://kinescope.io/cstq1gV95TsFuDkeJe5ASz/master.m3u8
-#EXTINF:-1 group-title="ONNA Network" tvg-logo="https://i.ibb.co/58WN07f/kmc-20240713-181804.png", ONNA Radio
-
+#EXTINF:-1 group-title="ONNA Network" tvg-logo="https://i.ibb.co/BtVRvD4/kmc-20240902-185635.png", ONNA Jolion
+https://kinescope.io/wmidkULY7G47VXA9HFvmDY/master.m3u8
 
 #EXTINF:-1 group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1
 https://ott1.nethubtv.vn/live/vtv1/playlist.m3u8
