@@ -24,7 +24,7 @@ https://liveh34.vtvcab.vn/hls/ONSPORT09/index.m3u8
 https://liveh34.vtvcab.vn/hls/ONSPORT010/index.m3u8
 
 #EXTINF:-1 group-title="ONNA Network" tvg-logo="https://i.ibb.co/Nn9rTHM/kmc-20240902-130708.png", ONNA Sports
-https://kinescope.io/nQ1npY5SYmtCw5uZcPf4rD/master.m3u8
+https://kinescope.io/kAzriyGhUwyZzuG9uULqju/master.m3u8
 #EXTINF:-1 group-title="ONNA Network" tvg-logo="https://i.ibb.co/GR3dJ2B/kmc-20240902-130702.png", ONNA+ Sports
 https://doitac.nekocdn.xyz/NNT1709Ch/index.m3u8
 #EXTINF:-1 group-title="ONNA Network" tvg-logo="https://i.ibb.co/gJBFhYh/kmc-20240902-162738.png", ONNA Anime
