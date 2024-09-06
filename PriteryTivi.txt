@@ -36,7 +36,7 @@ https://kinescope.io/cstq1gV95TsFuDkeJe5ASz/master.m3u8
 #EXTINF:-1 group-title="ONNA Network" tvg-logo="https://i.ibb.co/BtVRvD4/kmc-20240902-185635.png", ONNA Jolion
 https://kinescope.io/wmidkULY7G47VXA9HFvmDY/master.m3u8
 
-#EXTINF:-1 group-title="VMK Network" tvg-logo="https://i.ibb.co/4SzG9sf/kmc-20240905-210840.png", VMK Music
+#EXTINF:-1 group-title="VMK Network" tvg-logo="https://i.ibb.co/4SzG9sf/kmc-20240905-210840.png", VMK+ Music
 https://kinescope.io/iKs6N3RNV1JaBaZ6C6iWbb/master.m3u8
 
 #EXTINF:-1 group-title="Kênh Nội Bộ" tvg-logo="https://i.ibb.co/DwZLPf6/kmc-20240905-065547.png", TCL Hài Nguyễn Huy HD
