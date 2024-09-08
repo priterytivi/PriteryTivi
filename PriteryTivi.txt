@@ -33,10 +33,10 @@ https://kinescope.io/6wa8vXHLUJVgNe1GkcyVD5/master.m3u8
 https://kinescope.io/q4vmJD3rohgpwnZDWBFK8t/master.m3u8
 #EXTINF:-1 group-title="ONNA Network" tvg-logo="https://i.ibb.co/MpCfwrj/kmc-20240904-185829.png", ONNA Movies
 https://kinescope.io/cstq1gV95TsFuDkeJe5ASz/master.m3u8
-#EXTINF:-1 group-title="ONNA Network" tvg-logo="https://i.ibb.co/vBPcdms/kmc-20240906-235816.png", ONNA Weather
-https://kinescope.io/4dzTon6Xij16jEPU6p774J/master.m3u8
 #EXTINF:-1 group-title="ONNA Network" tvg-logo="https://i.ibb.co/BtVRvD4/kmc-20240902-185635.png", ONNA Jolion
 https://kinescope.io/wmidkULY7G47VXA9HFvmDY/master.m3u8
+#EXTINF:-1 group-title="ONNA Network" tvg-logo="https://i.ibb.co/XWy0357/kmc-20240909-020604.png", ONNA Event
+https://kinescope.io/4dzTon6Xij16jEPU6p774J/master.m3u8
 
 #EXTINF:-1 group-title="VMK+ Network" tvg-logo="https://i.ibb.co/4SzG9sf/kmc-20240905-210840.png", VMK+ Music
 https://kinescope.io/8ChsQpVfvrmJgjydbdGfEW/master.m3u8
