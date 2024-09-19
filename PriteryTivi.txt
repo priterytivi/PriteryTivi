@@ -30,7 +30,7 @@ https://doitac.nekocdn.xyz/satv24/index.m3u8
 #EXTINF:-1 group-title="ONNA Network" tvg-logo="https://i.ibb.co/gJBFhYh/kmc-20240902-162738.png", ONNA Anime
 https://kinescope.io/6wa8vXHLUJVgNe1GkcyVD5/master.m3u8
 #EXTINF:-1 group-title="ONNA Network" tvg-logo="https://i.ibb.co/FmsWM17/kmc-20240902-210810.png", ONNA Music
-https://kinescope.io/q4vmJD3rohgpwnZDWBFK8t/master.m3u8
+https://kinescope.io/jsQ5vQrNsBdzcgq1HKmFsU/master.m3u8
 #EXTINF:-1 group-title="ONNA Network" tvg-logo="https://i.ibb.co/MpCfwrj/kmc-20240904-185829.png", ONNA Movies
 https://kinescope.io/cstq1gV95TsFuDkeJe5ASz/master.m3u8
 #EXTINF:-1 group-title="ONNA Network" tvg-logo="https://i.ibb.co/BtVRvD4/kmc-20240902-185635.png", ONNA Jolion
