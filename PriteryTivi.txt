@@ -23,22 +23,12 @@ https://liveh34.vtvcab.vn/hls/ONSPORT09/index.m3u8
 #EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://stvinaprod.vtvcab.vn/6ba1de50-b726-4675-a372-3df496440086.png", ONPLUS LIVE 10
 https://liveh34.vtvcab.vn/hls/ONSPORT010/index.m3u8
 
-#EXTINF:-1 group-title="ONNA Network" tvg-logo="https://i.ibb.co/Nn9rTHM/kmc-20240902-130708.png", ONNA Sports
-https://kinescope.io/gfisf3JB3D98KoguZjXWj2/master.m3u8
-#EXTINF:-1 group-title="ONNA Network" tvg-logo="https://i.ibb.co/GR3dJ2B/kmc-20240902-130702.png", ONNA+ Sports
-
 #EXTINF:-1 group-title="ONNA Network" tvg-logo="https://i.ibb.co/gJBFhYh/kmc-20240902-162738.png", ONNA Anime
 https://kinescope.io/6wa8vXHLUJVgNe1GkcyVD5/master.m3u8
 #EXTINF:-1 group-title="ONNA Network" tvg-logo="https://i.ibb.co/FmsWM17/kmc-20240902-210810.png", ONNA Music
 https://kinescope.io/jsQ5vQrNsBdzcgq1HKmFsU/master.m3u8
-#EXTINF:-1 group-title="ONNA Network" tvg-logo="https://i.ibb.co/MpCfwrj/kmc-20240904-185829.png", ONNA Movies
-https://kinescope.io/cstq1gV95TsFuDkeJe5ASz/master.m3u8
-#EXTINF:-1 group-title="ONNA Network" tvg-logo="https://i.ibb.co/BtVRvD4/kmc-20240902-185635.png", ONNA Jolion
-https://kinescope.io/wmidkULY7G47VXA9HFvmDY/master.m3u8
 #EXTINF:-1 group-title="ONNA Network" tvg-logo="https://i.ibb.co/9rtJH0Q/kmc-20240920-130022.png", ONNA SATV24
 https://doitac.nekocdn.xyz/satv24/index.m3u8
-#EXTINF:-1 group-title="ONNA Network" tvg-logo="https://i.ibb.co/XWy0357/kmc-20240909-020604.png", ONNA Event
-https://kinescope.io/4dzTon6Xij16jEPU6p774J/master.m3u8
 
 #EXTINF:-1 group-title="VMK+ Network" tvg-logo="https://i.ibb.co/4SzG9sf/kmc-20240905-210840.png", VMK+ Music
 https://kinescope.io/x6kQ56RuNuJJ65n7wm4kd8/master.m3u8
@@ -46,11 +36,11 @@ https://kinescope.io/x6kQ56RuNuJJ65n7wm4kd8/master.m3u8
 #EXTINF:-1 group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1
 https://ott1.nethubtv.vn/live/vtv1/playlist.m3u8
 #EXTINF:-1 group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2
-https://billing.tfms.xyz/http://118.107.85.4:1935/live/smil:VTV2.smil/chunklist.m3u8
+http://s1.nihontv.net:21585/vtv2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3
-https://billing.tfms.xyz/http://118.107.85.4:1935/live/smil:VTV3.smil/chunklist.m3u8
+http://118.107.85.4:1935/live/smil:VTV3.smil/chunklist.m3u8
 #EXTINF:-1 group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/4.png", VTV4
-https://billing.tfms.xyz/http://118.107.85.4:1935/live/smil:VTV4.smil/chunklist.m3u8
+http://118.107.85.4:1935/live/smil:VTV4.smil/chunklist.m3u8
 #EXTINF:-1 group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5
 https://billing.tfms.xyz/s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/hls/vtv5/index.m3u8
 #EXTINF:-1 group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ
