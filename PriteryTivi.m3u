@@ -1,6 +1,4 @@
-Chào Mừng Bạn Đến Với List IPTV Của PriteryTivi!
-https://priterytivi.blogspot.com
-
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
 
 #EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://stvinaprod.vtvcab.vn/6ba1de50-b726-4675-a372-3df496440086.png", ONPLUS LIVE 1
 https://liveh34.vtvcab.vn/hls/ONSPORT01/index.m3u8
