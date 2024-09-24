@@ -52,8 +52,6 @@ http://125hvt.khanggtivi.xyz:21585/vtv9/index.m3u8
 
 #EXTINF:-1 group-title="Thiết Yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/32.png", VTC1
 https://liveh12.vtvcab.vn/hls/ONVTC1_CL/index.m3u8
-#EXTINF:-1 group-title="Thiết Yếu" tvg-logo="https://i.ibb.co/qg0L42p/kmc-20240909-195253.png", VTC14
-https://kinescope.io/hpwpAiW2BgKzS6ajwDXXBM/master.m3u8
 #EXTINF:-1 group-title="Thiết Yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/93.png", Quốc Hội TV
 https://liveh12.vtvcab.vn/hls/ONQUOCHOI_CL/index.m3u8
 #EXTINF:-1 group-title="Thiết Yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/91.png", Vnews
