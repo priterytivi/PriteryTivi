@@ -23,7 +23,7 @@ http://125hvt.ddns.net:21585/vtv5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ
 http://125hvt.ddns.net:21585/vtv6/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/9.png", VTV7
-https://kinescope.io/vVgZQe65sx1SUZ6CYJC8kt/master.m3u8
+http://103.226.232.199:9003/play/a0iu/index.m3u8
 #EXTINF:-1 group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/10.png", VTV8
 https://billing.tfms.xyz/https://e3.endpoint.cdn.sctvonline.vn/hls/vtv8/index.m3u8
 #EXTINF:-1 group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/11.png", VTV9
