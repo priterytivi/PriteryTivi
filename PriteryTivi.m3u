@@ -1,25 +1,7 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
+#List IPTV Thuộc Bởi PriteryTivi
+https://priterytivi.blogspot.com
 
-#EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://stvinaprod.vtvcab.vn/6ba1de50-b726-4675-a372-3df496440086.png", ONPLUS LIVE 1
-https://liveh34.vtvcab.vn/hls/ONSPORT01/index.m3u8
-#EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://stvinaprod.vtvcab.vn/6ba1de50-b726-4675-a372-3df496440086.png", ONPLUS LIVE 2
-https://liveh34.vtvcab.vn/hls/ONSPORT02/index.m3u8
-#EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://stvinaprod.vtvcab.vn/6ba1de50-b726-4675-a372-3df496440086.png", ONPLUS LIVE 3
-https://liveh34.vtvcab.vn/hls/ONSPORT03/index.m3u8
-#EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://stvinaprod.vtvcab.vn/6ba1de50-b726-4675-a372-3df496440086.png", ONPLUS LIVE 4
-https://liveh34.vtvcab.vn/hls/ONSPORT04/index.m3u8
-#EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://stvinaprod.vtvcab.vn/6ba1de50-b726-4675-a372-3df496440086.png", ONPLUS LIVE 5
-https://liveh34.vtvcab.vn/hls/ONSPORT05/index.m3u8
-#EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://stvinaprod.vtvcab.vn/6ba1de50-b726-4675-a372-3df496440086.png", ONPLUS LIVE 6
-https://liveh34.vtvcab.vn/hls/ONSPORT06/index.m3u8
-#EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://stvinaprod.vtvcab.vn/6ba1de50-b726-4675-a372-3df496440086.png", ONPLUS LIVE 7
-https://liveh34.vtvcab.vn/hls/ONSPORT07/index.m3u8
-#EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://stvinaprod.vtvcab.vn/6ba1de50-b726-4675-a372-3df496440086.png", ONPLUS LIVE 8
-https://liveh34.vtvcab.vn/hls/ONSPORT08/index.m3u8
-#EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://stvinaprod.vtvcab.vn/6ba1de50-b726-4675-a372-3df496440086.png", ONPLUS LIVE 9
-https://liveh34.vtvcab.vn/hls/ONSPORT09/index.m3u8
-#EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://stvinaprod.vtvcab.vn/6ba1de50-b726-4675-a372-3df496440086.png", ONPLUS LIVE 10
-https://liveh34.vtvcab.vn/hls/ONSPORT010/index.m3u8
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
 
 #EXTINF:-1 group-title="ONNA Network" tvg-logo="https://i.ibb.co/gJBFhYh/kmc-20240902-162738.png", ONNA Anime
 https://cdn02.32mine.net/onnaanime/index.m3u8
@@ -27,9 +9,6 @@ https://cdn02.32mine.net/onnaanime/index.m3u8
 https://cdn02.32mine.net/onnamusic/index.m3u8
 #EXTINF:-1 group-title="ONNA Network" tvg-logo="https://i.ibb.co/9rtJH0Q/kmc-20240920-130022.png", ONNA SATV24
 https://doitac.nekocdn.xyz/satv24/index.m3u8
-
-#EXTINF:-1 group-title="VMK+ Network" tvg-logo="https://i.ibb.co/4SzG9sf/kmc-20240905-210840.png", VMK+ Music
-https://kinescope.io/x6kQ56RuNuJJ65n7wm4kd8/master.m3u8
 
 #EXTINF:-1 group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1
 https://ott1.nethubtv.vn/live/vtv1/playlist.m3u8
@@ -64,29 +43,29 @@ https://arpt.tvic.vn/live/nhandan720/playlist.m3u8
 https://liveh34.vtvcab.vn/hls/ONQUOCPHONG_CL/index.m3u8
 
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png", HBO
-http://125hvt.khanggtivi.xyz:21585/hbo/index.m3u8
+http://125hvt.ddns.net:21585/hbo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png", AXN
-http://125hvt.khanggtivi.xyz:21585/axn/index.m3u8
+http://125hvt.ddns.net:21585/axn/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/198.png", Cartoon Network
 http://s4.nihontv.net:21585/cartoon/index.m3u8
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/237.png", Warner TV
-http://125hvt.khanggtivi.xyz:21585/wbtv/index.m3u8
+http://125hvt.ddns.net:21585/wbtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/204.png", Discovery Channel
-http://125hvt.khanggtivi.xyz:21585/discovery/index.m3u8
+http://125hvt.ddns.net:21585/discovery/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/232.png", Fashion TV
-http://125hvt.khanggtivi.xyz:21585/ftv/index.m3u8
+http://125hvt.ddns.net:21585/ftv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/208.png", Outdoor Channel
-http://125hvt.khanggtivi.xyz:21585/outdoor/index.m3u8
+http://125hvt.ddns.net:21585/outdoor/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/218.png", CNN
-http://125hvt.khanggtivi.xyz:21585/cnn/index.m3u8
+http://125hvt.ddns.net:21585/cnn/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/219.png", CNA
 https://oipf0znpmnliv.vcdn.cloud/hls/cna/index.m3u8
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/221.png", DW
 http://s4.nihontv.net:21585/dw/index.m3u8
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="chua co thumball dau nen dung hoi", TV5 Monde
-http://125hvt.khanggtivi.xyz:21585/tv5/index.m3u8
+http://125hvt.ddns.net:21585/tv5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/236.png", TLC
-http://125hvt.khanggtivi.xyz:21585/tlc/index.m3u8
+http://125hvt.ddns.net:21585/tlc/tracks-v1a1/mono.m3u8
 
 
 
