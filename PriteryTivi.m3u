@@ -3,19 +3,14 @@ https://priterytivi.blogspot.com
 
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
 
-#EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://i.ibb.co/89XZh7n/ooooo.jpg", Phim: Đào, Phở và Piano (20h, 9/10/2024)
-https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/playlist.m3u8
-#EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://i.ibb.co/89XZh7n/ooooo.jpg", Phim: Đào, Phở và Piano (11h30 - 21h, 10/10/2024)
-https://cloudstreamhntv.tek4tv.vn/live/smil:HN2.smil/playlist.m3u8
-#EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://i.ibb.co/89XZh7n/ooooo.jpg", Phim: Đào, Phở và Piano (21h20, 13/10/2024)
-https://wowza2.danet.vn/live/vtv1/playlist.m3u8
-
 #EXTINF:-1 group-title="ONNA Network" tvg-logo="https://i.ibb.co/gJBFhYh/kmc-20240902-162738.png", ONNA Anime
 https://cdn02.32mine.net/onnaanime/index.m3u8
 #EXTINF:-1 group-title="ONNA Network" tvg-logo="https://i.ibb.co/FmsWM17/kmc-20240902-210810.png", ONNA Music
 https://cdn02.32mine.net/onnamusic/index.m3u8
 #EXTINF:-1 group-title="ONNA Network" tvg-logo="https://i.ibb.co/9rtJH0Q/kmc-20240920-130022.png", ONNA SATV24
 https://doitac.nekocdn.xyz/satv24/index.m3u8
+#EXTINF:-1 group-title="ONNA Network" tvg-logo="https://i.ibb.co/mq65zsX/kmc-20241009-214749.png", ONNA Kaos Pinku (thử nghiệm)
+https://ibb.co/qskY1GW
 
 #EXTINF:-1 group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1
 https://ott1.nethubtv.vn/live/vtv1/playlist.m3u8
