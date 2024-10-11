@@ -11,6 +11,8 @@ https://cdn02.32mine.net/onnamusic/index.m3u8
 https://doitac.nekocdn.xyz/satv24/index.m3u8
 #EXTINF:-1 group-title="ONNA Network" tvg-logo="https://i.ibb.co/mq65zsX/kmc-20241009-214749.png", ONNA Kaos Pinku (thử nghiệm)
 https://tth.vn/uQMY
+#EXTINF:-1 group-title="ONNA Network" tvg-logo="https://i.ibb.co/2kKnR3x/kmc-20241011-123852.png", ONNA Radio
+https://kinescope.io/d7rSpYEm4ErqKPEBzMeet8/master.m3u8?priterytivi
 
 #EXTINF:-1 group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1
 https://ott1.nethubtv.vn/live/vtv1/playlist.m3u8
