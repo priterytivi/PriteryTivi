@@ -50,5 +50,7 @@ https://lives.antv.gov.vn/channel/antv/channel/antv_1080p/chunks.m3u8
 https://playlive.qpvn.vn/live/qpvn.m3u8
 #EXTINF:-1 group-title="Thiết Yếu" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/23/TTXVN.png/revision/latest?cb=20210128135105&path-prefix=vi", Vnews (Tinh Gọn Bộ Máy)
 https://streamingovp.vnews.gov.vn/live/smil:vnews.smil/chunklist_w1683920437_b3128000_sleng.m3u8
+#EXTINF:-1 group-title="Thiết Yếu" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cd/Nh%C3%A2n_D%C3%A2n_TV_logo_2021.png/revision/latest?cb=20220420142237&path-prefix=vi", Nhân Dân TV (Website Feed)
+https://arpt.tvic.vn/live/nhandan720/playlist.m3u8
 #EXTINF:-1 group-title="Thiết Yếu" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/06/VOV_2009.png/revision/latest?cb=20240518103800&path-prefix=vi", VOV TV (Tinh Gọn Bộ Máy)
 https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/playlist.m3u8
