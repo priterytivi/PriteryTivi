@@ -3,9 +3,9 @@ https://priterytivi.blogspot.com
 
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
 
-#EXTINF:-1 group-title="ONNA Network" tvg-logo="https://github.com/priterytivi/PriteryTivi/blob/580dc0c3a82490f617832d6118fc5be10ce44a47/ONi1.png", ONNA Anime
+#EXTINF:-1 group-title="ONNA Network" tvg-logo="https://i.ibb.co/spCgh0Tf/1735283835605.png", ONNA Anime
 http://server.priterytivi.com/oni1/index.m3u8
-#EXTINF:-1 group-title="ONNA Network" tvg-logo="https://github.com/priterytivi/PriteryTivi/blob/45033209747371f512e4ae04d0d2468c9547e60d/ONi2.png", ONNA Music
+#EXTINF:-1 group-title="ONNA Network" tvg-logo="https://i.ibb.co/675wHPJT/1735283914685.png", ONNA Music
 http://server.priterytivi.com:81/hls/oni2/index.m3u8
-#EXTINF:-1 group-title="ONNA Network" tvg-logo="https://github.com/priterytivi/PriteryTivi/blob/45033209747371f512e4ae04d0d2468c9547e60d/ONi4.png", ONi4 - Education (Thử Nghiệm)
+#EXTINF:-1 group-title="ONNA Network" tvg-logo="https://i.ibb.co/5gWNFFQj/1736139719343.png", ONi4 - Educational (Thử Nghiệm)
 http://server.priterytivi.com:81/hls/oni4/index.m3u8
