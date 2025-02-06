@@ -5,7 +5,7 @@ https://priterytivi.blogspot.com
 
 #EXTINF:-1 group-title="ONNA Network" tvg-logo="https://github.com/priterytivi/PriteryTivi/blob/580dc0c3a82490f617832d6118fc5be10ce44a47/ONi1.png", ONNA Anime
 http://server.priterytivi.com/oni1/index.m3u8
-#EXTINF:-1 group-title="ONNA Network" tvg-logo="https://i.ibb.co/FmsWM17/kmc-20240902-210810.png", ONNA Music
+#EXTINF:-1 group-title="ONNA Network" tvg-logo="https://github.com/priterytivi/PriteryTivi/blob/45033209747371f512e4ae04d0d2468c9547e60d/ONi2.png", ONNA Music
 http://server.priterytivi.com:81/hls/oni2/index.m3u8
-#EXTINF:-1 group-title="ONNA Network" tvg-logo="https://i.ibb.co/9rtJH0Q/kmc-20240920-130022.png", ONi4 - Education (Thử Nghiệm)
+#EXTINF:-1 group-title="ONNA Network" tvg-logo="https://github.com/priterytivi/PriteryTivi/blob/45033209747371f512e4ae04d0d2468c9547e60d/ONi4.png", ONi4 - Education (Thử Nghiệm)
 http://server.priterytivi.com:81/hls/oni4/index.m3u8
