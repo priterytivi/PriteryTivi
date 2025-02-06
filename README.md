@@ -1,4 +1,4 @@
-## Hi there 👋
+#List IPTV Mới Của PriteryTivi: https://s.net.vn/listpriterytivi
 
 <!--
 **priterytivi/PriteryTivi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
