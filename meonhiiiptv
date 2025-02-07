@@ -7,6 +7,8 @@ https://priterytivi.blogspot.com
 http://server.priterytivi.com/oni1/index.m3u8
 #EXTINF:-1 group-title="ONNA Network" tvg-logo="https://i.ibb.co/675wHPJT/1735283914685.png", ONNA Music
 http://server.priterytivi.com:81/hls/oni2/index.m3u8
+#EXTINF:-1 group-title="ONNA Network" tvg-logo="https://i.ibb.co/tp1p8DbQ/1736105796820.png", ONi3
+http://server.priterytivi.com:81/hls/oni3/index.m3u8
 #EXTINF:-1 group-title="ONNA Network" tvg-logo="https://i.ibb.co/5gWNFFQj/1736139719343.png", ONi4 - Educational (Thử Nghiệm)
 http://server.priterytivi.com:81/hls/oni4/index.m3u8
 
