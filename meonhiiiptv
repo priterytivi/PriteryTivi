@@ -46,6 +46,11 @@ https://vc.101vn.com/htv/htvcmb.php?id=2667
 #EXTINF:-1 group-title="HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4c/HTV_Th%E1%BB%83_thao_logo.png/revision/latest?cb=20231108113057&path-prefix=vi",HTV Thể Thao
 https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
 
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/82/TodayTV_2017.png/revision/latest?cb=20210926032220&path-prefix=vi",SCTV2 - TodayTV
+https://z215ymcm4tliv.vcdn.cloud/s8/hls/sctv2/index.m3u8
+#EXTINF:-1 group-title="SCTV" tvg-logo="http://resources.sgchill.io.vn/images/tv/sctv/sctv6.png",SCTV6
+http://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
+
 #EXTINF:-1 group-title="Thiết Yếu" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a7/ANTV_logo.png/revision/latest?cb=20200926141438&path-prefix=vi", ANTV
 https://liveh34.vtvcab.vn/hls/ONANTV_CL/index.m3u8
 #EXTINF:-1 group-title="Thiết Yếu" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/42/QPVN_2019.png/revision/latest?cb=20240927142314&path-prefix=vi", QPVN
