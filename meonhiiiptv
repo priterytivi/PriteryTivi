@@ -45,7 +45,7 @@ https://vc.101vn.com/htv/htvcmb.php?id=2667
 https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 group-title="Thiết Yếu" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a7/ANTV_logo.png/revision/latest?cb=20200926141438&path-prefix=vi", ANTV
-https://lives.antv.gov.vn/channel/antv/channel/antv_1080p/chunks.m3u8
+https://wowza2.danet.vn/live/antv/playlist.m3u8
 #EXTINF:-1 group-title="Thiết Yếu" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/42/QPVN_2019.png/revision/latest?cb=20240927142314&path-prefix=vi", QPVN
 https://playlive.qpvn.vn/live/qpvn.m3u8
 #EXTINF:-1 group-title="Thiết Yếu" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/23/TTXVN.png/revision/latest?cb=20210128135105&path-prefix=vi", Vnews (Tinh Gọn Bộ Máy)
