@@ -38,15 +38,15 @@ https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3d/VTV9_22.09.2024-nay.png/revision/latest?cb=20240923141144&path-prefix=vi", VTV9
 https://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 group-title="HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9d/HTV1_logo_10-03-2023.png/revision/latest?cb=20231227101553&path-prefix=vi",HTV1
+#EXTINF:-1 group-title="HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/94/HTV1_logo_2016-nay.png/revision/latest?cb=20240907104337&path-prefix=vi",HTV1
 https://vc.101vn.com/htv/htvcmb.php?id=2631
-#EXTINF:-1 group-title="HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/06/Vie_Channel.png/revision/latest?cb=20240104083041&path-tiền tố=vi",HTV2
+#EXTINF:-1 group-title="HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/06/Vie_Channel.png/revision/latest?cb=20240104083041&path-prefix=vi",HTV2
 https://vc.101vn.com/htv/htvcmb.php?id=2669
 #EXTINF:-1 group-title="HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/7f/HTV3_logo_2018-nay.png/revision/latest?cb =20231116060153&path-prefix=vi",HTV3
 https://vc.101vn.com/htv/htvcmb.php?id=2535
 #EXTINF:-1 group-title="HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/de/HTV_Key_logo_2022.png/revision/latest?cb=20230413121514&path-prefix=vi",HTV Key
 https://vc.101vn.com/htv/htvcmb.php?id=2528
-#EXTINF:-1 group-title="HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0c/HTV7_logo_2023.png/revision/latest?cb=20240207041541&path-tiền tố=vi",HTV7
+#EXTINF:-1 group-title="HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fe/HTV7_logo_ch%C3%ADnh_2017-2024.png/revision/latest?cb=20231211054303&path-prefix=vi",HTV7
 https://vc.101vn.com/htv/htvcmb.php?id=256
 #EXTINF:-1 group-title="HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/08/HTV9_logo_ch%C3%ADnh_28.07-04.08.2023.png/revision/latest?cb=20230731122629&path-prefix=vi",HTV9
 https://vc.101vn.com/htv/htvcmb.php?id=2667
@@ -54,7 +54,7 @@ https://vc.101vn.com/htv/htvcmb.php?id=2667
 https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/82/TodayTV_2017.png/revision/latest?cb=20210926032220&path-prefix=vi",SCTV2 - TodayTV
-https://z215ymcm4tliv.vcdn.cloud/s8/hls/sctv2/index.m3u8
+
 #EXTINF:-1 group-title="SCTV" tvg-logo="http://resources.sgchill.io.vn/images/tv/sctv/sctv6.png",SCTV6
 http://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
 
