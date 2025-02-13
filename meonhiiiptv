@@ -53,8 +53,11 @@ https://vc.101vn.com/htv/htvcmb.php?id=2667
 #EXTINF:-1 group-title="HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4c/HTV_Th%E1%BB%83_thao_logo.png/revision/latest?cb=20231108113057&path-prefix=vi",HTV Thể Thao
 https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/82/TodayTV_2017.png/revision/latest?cb=20210926032220&path-prefix=vi",SCTV2 - TodayTV
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0d/YouTV_2018.png/revision/latest?cb=20220602001813&path-prefix=vi",YouTV - VTVCab 4
+https://tv.TruyenHinh.Click/CoBan/vtvcab4hd/TuyetDoiKhongKinhDoanh
 
+#EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/82/TodayTV_2017.png/revision/latest?cb=20210926032220&path-prefix=vi",SCTV2 - TodayTV
+http://e8.endpoint.cdn.sctvonline.vn/hls/sctv2/index.m3u8
 #EXTINF:-1 group-title="SCTV" tvg-logo="http://resources.sgchill.io.vn/images/tv/sctv/sctv6.png",SCTV6
 http://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
 
