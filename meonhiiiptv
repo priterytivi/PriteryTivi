@@ -3,6 +3,8 @@
 #List IPTV Thuộc Bởi PriteryTivi
 https://priterytivi.blogspot.com
 
+#Địt mẹ lũ súc vật spam comment sao đơn, lũ spam comment chúng mày bớt thẩm du tinh thần lại đi nhé
+
 #EXTINF:-1 group-title="Nino Network" tvg-logo="https://i.ibb.co/spCgh0Tf/1735283835605.png", Nino Channel 1
 http://server.priterytivi.com/oni1/index.m3u8
 #EXTINF:-1 group-title="Nino Network" tvg-logo="https://i.ibb.co/675wHPJT/1735283914685.png", Nino Channel 2
@@ -15,7 +17,7 @@ http://server.priterytivi.com/oni4/index.m3u8
 #EXTINF:-1 group-title="Đối Tác" tvg-logo="https://i.ibb.co/x8L2QCdL/Picture1.png", LVTT
 https://khanggtivi.xyz/live/pini=sv3.localhost.ini/LVTT/playlist.m3u8
 #EXTINF:-1 group-title="Đối Tác" tvg-logo="https://i.ibb.co/27QSYjxK/1739327580068.png", ATV HD
-https://server.priterytivi.com/ATVHD/index.m3u8
+
 
 #EXTINF:-1 group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0e/VTV1_01.11.2022-nay.png/revision/latest?cb=20250110114241&path-prefix=vi", VTV1
 https://ott1.nethubtv.vn/live/vtv1/playlist.m3u8
