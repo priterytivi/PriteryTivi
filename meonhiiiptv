@@ -20,7 +20,7 @@ http://server.priterytivi.com/oni3/index.m3u8
 http://server.priterytivi.com/oni4/index.m3u8
 
 #EXTINF:-1 group-title="Đối Tác" tvg-logo="https://i.ibb.co/x8L2QCdL/Picture1.png", LVTT
-https://khanggtivi.xyz/live/pini=sv3.localhost.ini/LVTT/playlist.m3u8
+
 #EXTINF:-1 group-title="Đối Tác" tvg-logo="https://i.ibb.co/27QSYjxK/1739327580068.png", ATV HD
 
 
