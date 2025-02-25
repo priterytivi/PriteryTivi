@@ -7,16 +7,18 @@ https://priterytivi.blogspot.com
 
 #EXTINF:-1 group-title="Info" tvg-logo="https://i.ibb.co/qMb0Sm3m/t-i-xu-ng-2025-02-23-T010555-033.jpg", info 1
 https://github.com/priterytivi/PriteryTivi/raw/refs/heads/main/iLoveYt.net_YouTube_oh-my-little-baby-boy-ANIMATION-MEME_Media_qjqL2RTwv0g_001_1080p.mp4
-#EXTINF:-1 group-title="Info" tvg-logo="https://cdn-v2.didongviet.vn/files/products/2024/10/12/1/1731396000256_realme_note_60_64gb_didongviet.jpg", info 2
+#EXTINF:-1 group-title="Info" tvg-logo="https://i.ibb.co/qMb0Sm3m/t-i-xu-ng-2025-02-23-T010555-033.jpg", info 2
+https://files.catbox.moe/m514qm.mp4
+#EXTINF:-1 group-title="Info" tvg-logo="https://cdn-v2.didongviet.vn/files/products/2024/10/12/1/1731396000256_realme_note_60_64gb_didongviet.jpg", info 3
 https://github.com/priterytivi/PriteryTivi/raw/refs/heads/main/TikDown.com_TikTok_Media_001_03770da46294420b70514e1f004921fb.mp4
 
-#EXTINF:-1 group-title="Nino Network" tvg-logo="https://i.ibb.co/spCgh0Tf/1735283835605.png", Nino Channel 1
+#EXTINF:-1 group-title="ONNA Network" tvg-logo="https://i.ibb.co/spCgh0Tf/1735283835605.png", ONi1
 http://server.priterytivi.com/oni1/index.m3u8
-#EXTINF:-1 group-title="Nino Network" tvg-logo="https://i.ibb.co/675wHPJT/1735283914685.png", Nino Channel 2
+#EXTINF:-1 group-title="ONNA Network" tvg-logo="https://i.ibb.co/675wHPJT/1735283914685.png", ONi2 (tạm dừng phát sóng)
 http://server.priterytivi.com/oni2/index.m3u8
-#EXTINF:-1 group-title="Nino Network" tvg-logo="https://i.ibb.co/tp1p8DbQ/1736105796820.png", Nino Channel 3
+#EXTINF:-1 group-title="ONNA Network" tvg-logo="https://i.ibb.co/tp1p8DbQ/1736105796820.png", ONi3
 http://server.priterytivi.com/oni3/index.m3u8
-#EXTINF:-1 group-title="Nino Network" tvg-logo="https://i.ibb.co/5gWNFFQj/1736139719343.png", Nino Channel 4 - Educational TV (Thử Nghiệm)
+#EXTINF:-1 group-title="ONNA Network" tvg-logo="https://i.ibb.co/5gWNFFQj/1736139719343.png", ONi4 - Educational TV
 http://server.priterytivi.com/oni4/index.m3u8
 
 #EXTINF:-1 group-title="Đối Tác" tvg-logo="https://i.ibb.co/x8L2QCdL/Picture1.png", LVTT
