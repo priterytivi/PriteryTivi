@@ -15,11 +15,11 @@ https://files.catbox.moe/ff7ebs.mp4
 #EXTINF:-1 group-title="ONNA Network" tvg-logo="https://i.ibb.co/spCgh0Tf/1735283835605.png", ONi1
 http://server.priterytivi.com/oni/index.m3u8
 #EXTINF:-1 group-title="ONNA Network" tvg-logo="https://i.ibb.co/675wHPJT/1735283914685.png", ONi2
-https://files.catbox.moe/rfmhdb.mp4
+
 #EXTINF:-1 group-title="ONNA Network" tvg-logo="https://i.ibb.co/tp1p8DbQ/1736105796820.png", ONi3
-https://files.catbox.moe/rfmhdb.mp4
+
 #EXTINF:-1 group-title="ONNA Network" tvg-logo="https://i.ibb.co/5gWNFFQj/1736139719343.png", ONi4 - Educational TV
-https://files.catbox.moe/rfmhdb.mp4
+
 
 #EXTINF:-1 group-title="Đối Tác" tvg-logo="https://i.ibb.co/x8L2QCdL/Picture1.png", LVTT
 https://files.catbox.moe/rfmhdb.mp4
@@ -73,6 +73,11 @@ http://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
 https://liveh34.vtvcab.vn/hls/ONANTV_CL/index.m3u8
 #EXTINF:-1 group-title="Thiết Yếu" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/42/QPVN_2019.png/revision/latest?cb=20240927142314&path-prefix=vi", QPVN
 https://liveh34.vtvcab.vn/hls/ONQUOCPHONG_CL/index.m3u8
+
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/48/HBO_2010_%28Silver%29.png/revision/latest?cb=20230119144322&path-prefix=vi", HBO
+http://125hvt.ddns.net:21585/hbo/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1b/AXN.png/revision/latest?cb=20221214051545&path-prefix=vi", AXN
+http://125hvt.ddns.net:21585/axn/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Tinh Gọn Bộ Máy" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/23/TTXVN.png/revision/latest?cb=20210128135105&path-prefix=vi", Vnews (Feed 1)
 https://streamingovp.vnews.gov.vn/live/smil:vnews.smil/chunklist_w1683920437_b3128000_sleng.m3u8
