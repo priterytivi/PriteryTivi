@@ -3,8 +3,6 @@
 #List IPTV Thuộc Bởi PriteryTivi
 https://priterytivi.blogspot.com
 
-#Địt mẹ bọn spam comment sao đơn
-
 #EXTINF:-1 group-title="Info" tvg-logo="https://i.ibb.co/qMb0Sm3m/t-i-xu-ng-2025-02-23-T010555-033.jpg", info 1
 https://files.catbox.moe/tuj4pn.mp4
 #EXTINF:-1 group-title="Info" tvg-logo="https://i.ibb.co/qMb0Sm3m/t-i-xu-ng-2025-02-23-T010555-033.jpg", info 2
@@ -20,6 +18,8 @@ http://server.priterytivi.com/oni/index.m3u8
 
 #EXTINF:-1 group-title="ONNA Network" tvg-logo="https://i.ibb.co/5gWNFFQj/1736139719343.png", ONi4 - Educational TV
 
+#EXTINF:-1 group-title="ONNA Network" tvg-logo="https://i.ibb.co/NnWw1CjW/1741534250966.png", MBN+
+https://kinescope.io/0ckXGncGRh4XFrQUYu5E3Y/master.m3u8
 
 #EXTINF:-1 group-title="Đối Tác" tvg-logo="https://i.ibb.co/x8L2QCdL/Picture1.png", LVTT
 https://files.catbox.moe/rfmhdb.mp4
