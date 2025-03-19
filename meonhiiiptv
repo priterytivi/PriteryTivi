@@ -17,7 +17,7 @@ https://sb-5.restream.su/preview/20001/4d4f275b-4929-4d44-bdfd-ad11d6ead440/live
 #EXTINF:-1 group-title="ONNA Network" tvg-logo="https://i.ibb.co/tp1p8DbQ/1736105796820.png", ONi3
 https://kinescope.io/0cmfKgZUXFFH9cARiKQaBA/master.m3u8
 #EXTINF:-1 group-title="ONNA Network" tvg-logo="https://i.ibb.co/5gWNFFQj/1736139719343.png", ONi4 - Educational TV
-
+http://118.107.85.4:1935/live/smil:VTV3.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Đối Tác" tvg-logo="https://i.ibb.co/NnWw1CjW/1741534250966.png", MBN+
 https://kinescope.io/0ckXGncGRh4XFrQUYu5E3Y/master.m3u8
 #EXTINF:-1 group-title="Đối Tác" tvg-logo="https://i.ibb.co/x8L2QCdL/Picture1.png", LVTT
