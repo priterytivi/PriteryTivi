@@ -16,9 +16,6 @@ https://files.catbox.moe/ff7ebs.mp4
 #EXTINF:-1 group-title="Info" tvg-logo="https://i.ibb.co/FL3LC0qY/images-5.jpg", info 4
 https://files.catbox.moe/b30ajz.mp4
 
-#EXTINF:-1 group-title="Live" tvg-logo="", Doraemon 24/7
-https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=sJn9jxbFGU8
-
 #EXTINF:-1 group-title="ONNA Network" tvg-logo="https://i.ibb.co/spCgh0Tf/1735283835605.png", ONi1
 http://server.priterytivi.com/oni/index.m3u8
 #EXTINF:-1 group-title="ONNA Network" tvg-logo="https://i.ibb.co/675wHPJT/1735283914685.png", ONi2
@@ -27,6 +24,8 @@ https://live-hz-7.livepush.io/live/emZtptuFIBcC5gc/chunks.m3u8
 https://kinescope.io/0cmfKgZUXFFH9cARiKQaBA/master.m3u8
 #EXTINF:-1 group-title="ONNA Network" tvg-logo="https://i.ibb.co/5gWNFFQj/1736139719343.png", ONi4 - Educational TV
 
+#EXTINF:-1 group-title="ONNA Network" tvg-logo="https://i.ibb.co/d0ZLxsYs/Logo-ONi5-2025.png", ONi5 (Thử Nghiệm) 
+https://live-hz-7.livepush.io/live/emOgSH6fo1e0Lzup/chunks.m3u8
 #EXTINF:-1 group-title="ONNA Network" tvg-logo="https://i.ibb.co/YB7mk1WW/IMG-20250323-135039.png", ONi4K (Thử Nghiệm) 
 https://kinescope.io/0cmqbxyWqBaxkxdZ6rHsHs/master.m3u8
 
