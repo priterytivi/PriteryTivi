@@ -92,6 +92,9 @@ http://125hvt.ddns.net:21585/axn/tracks-v1a1/mono.m3u8
 https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a3/CNN.png/revision/latest?cb=20211228095017&path-prefix=vi", CNN
 http://125hvt.ddns.net:21585/cnn/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/5d/Sky_News_logo_2018.png/revision/latest?cb=20220303075430&path-prefix=vi", Sky News
+https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
+
 
 #EXTINF:-1 group-title="Tinh Gọn Bộ Máy" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/23/TTXVN.png/revision/latest?cb=20210128135105&path-prefix=vi", Vnews (Feed 1)
 https://streamingovp.vnews.gov.vn/live/smil:vnews.smil/chunklist_w1683920437_b3128000_sleng.m3u8
