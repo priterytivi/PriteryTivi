@@ -92,6 +92,8 @@ http://125hvt.ddns.net:21585/axn/tracks-v1a1/mono.m3u8
 https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a3/CNN.png/revision/latest?cb=20211228095017&path-prefix=vi", CNN
 http://125hvt.ddns.net:21585/cnn/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4c/CNA_logo_2019.png/revision/latest?cb=20230528103614&path-prefix=vi", CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/5d/Sky_News_logo_2018.png/revision/latest?cb=20220303075430&path-prefix=vi", Sky News
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest?cb=20210726224754", Cartoon Network
