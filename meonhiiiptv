@@ -110,12 +110,13 @@ https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a2/NHK_World_Japan_2015.png/revision/latest?cb=20240307125040&path-prefix=vi", NHK World
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8
 
-#EXTINF:-1 group-title="Tinh Gọn Bộ Máy" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/23/TTXVN.png/revision/latest?cb=20210128135105&path-prefix=vi", Vnews (Feed 1)
-https://streamingovp.vnews.gov.vn/live/smil:vnews.smil/chunklist_w1683920437_b3128000_sleng.m3u8
-#EXTINF:-1 group-title="Tinh Gọn Bộ Máy" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/23/TTXVN.png/revision/latest?cb=20210128135105&path-prefix=vi", Vnews (Feed 2)
+#EXTINF:-1 group-title="Tinh Gọn Bộ Máy" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/23/TTXVN.png/revision/latest?cb=20210128135105&path-prefix=vi", Vnews
 https://ott1.nethubtv.vn/live/ttxvn/playlist.m3u8
 #EXTINF:-1 group-title="Tinh Gọn Bộ Máy" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cd/Nh%C3%A2n_D%C3%A2n_TV_logo_2021.png/revision/latest?cb=20220420142237&path-prefix=vi", Nhân Dân TV
 https://arpt.tvic.vn/live/nhandan720/playlist.m3u8
+
+#EXTINF:-1 group-title="🍥| MeoNhii VOD"tvg-logo="https://i.ibb.co/Gvd8LGqd/82b5fb251e1d90f089b33031f6218b2b.jpg",MeoNhii VOD
+https://files.catbox.moe/t48smh.mp4
 
 #EXTINF:-1 group-title="Test" tvg-logo="", test 1
 https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=YDvsBbKfLPA
