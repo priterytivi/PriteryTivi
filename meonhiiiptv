@@ -6,7 +6,6 @@
 
 #Website: https://priterytivi.blogspot.com
 #List IPTV: https://s.net.vn/listpriterytivi, https://bit.ly/priterytivi
-#Info: Địt mẹ bọn spam comment sao đơn
 
 #EXTINF:-1 group-title="ℹ️| Info" tvg-logo="", info 1
 https://files.catbox.moe/ff7ebs.mp4
@@ -23,8 +22,6 @@ https://kinescope.io/0cmfKgZUXFFH9cARiKQaBA/master.m3u8
 https://cdn.anh.moe/s4/C4eeSQ2.mp4
 #EXTINF:-1 group-title="📺| ONNA Network" tvg-logo="https://i.ibb.co/d0ZLxsYs/Logo-ONi5-2025.png", ONi5 (Thử Nghiệm) 
 https://live-hz-7.livepush.io/live/emOgSH6fo1e0Lzup/chunks.m3u8
-#EXTINF:-1 group-title="📺| ONNA Network" tvg-logo="https://i.ibb.co/YB7mk1WW/IMG-20250323-135039.png", ONi4K (Thử Nghiệm) 
-https://kinescope.io/0cmqbxyWqBaxkxdZ6rHsHs/master.m3u8
 
 #EXTINF:-1 group-title="🤝| Đối Tác" tvg-logo="https://i.ibb.co/NnWw1CjW/1741534250966.png", MBN+
 https://kinescope.io/0ckXGncGRh4XFrQUYu5E3Y/master.m3u8
